@@ -1,1 +1,2 @@
 # project
+Django项目
